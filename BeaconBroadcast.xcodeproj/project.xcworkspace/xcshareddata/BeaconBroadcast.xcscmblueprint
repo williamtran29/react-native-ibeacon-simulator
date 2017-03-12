@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "957A562EB960C279C6B643314680A7CF2F130FA6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "957A562EB960C279C6B643314680A7CF2F130FA6" : 9223372036854775807,
+    "A2674DB35A98BF2E331DBD081239FEE44C3D779D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "688D6D3B-444F-46A7-9154-094A3463B64B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "957A562EB960C279C6B643314680A7CF2F130FA6" : "beaconbroadcast\/",
+    "A2674DB35A98BF2E331DBD081239FEE44C3D779D" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BeaconBroadcast",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BeaconBroadcast.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/philipheinser\/beaconbroadcast.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "957A562EB960C279C6B643314680A7CF2F130FA6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.com:paywithflow\/merchant_app.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A2674DB35A98BF2E331DBD081239FEE44C3D779D"
+    }
+  ]
+}
