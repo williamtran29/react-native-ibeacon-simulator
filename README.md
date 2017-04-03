@@ -16,7 +16,7 @@ Start iBeacon on device:
 
 ### uuid: String
 
- You can get from here https://openuuid.lime-company.eu/
+ You can get from here http://openuuid.net/
 
 ### identifier: String
 
